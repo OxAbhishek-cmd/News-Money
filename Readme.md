@@ -20,4 +20,4 @@ To run NewsMonkey locally, follow these steps:
 4. Access the website through your browser.
 
 ## Contributing
-We welcome contributions from the open-source community. If you'd like to contribute to NewsMonkey, please follow our [News API](newsapi.org).
+[News API](newsapi.org).
